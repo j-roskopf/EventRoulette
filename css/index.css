@@ -1,0 +1,35 @@
+#form {
+  margin: 64px;
+}
+
+#tableContainer {
+  margin: 64px;
+  margin-right: 64px;
+}
+
+#buttonRow {
+  margin-top: 32px;
+}
+
+#feelingLuckyImage {
+  display: block;
+      margin-left: auto;
+      margin-right: auto;
+      margin-bottom: 16px;
+}
+#feelingLuckyContainer {
+  margin: 64px;
+}
+
+#buttonContainer {
+	margin-top: 16px;
+}
+
+#sortByLabel, #latitudeLabel, #longitudeLabel, #radiusLabel, #errorMessageRoweve {
+	margin-top: 16px;
+}
+
+#headerText{
+	margin-top: 64px;
+	text-align: center;
+}
